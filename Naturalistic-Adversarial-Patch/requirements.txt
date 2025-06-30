@@ -1,0 +1,11 @@
+numpy
+torch
+torchvision
+matplotlib
+tqdm
+torchsummary
+tensorboardX
+scipy
+opencv-python
+ImageAug
+torchgeometry
